@@ -1,4 +1,6 @@
-# SimplePortScanner_v1
+# simple-port-scanner_v1
+Created by Kyle Noel, 14Jun2022
+
 A simple port scanner developed in C++ with SMFL for Windows.
 
 **This project was developed for personal research and education purposes.
